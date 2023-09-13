@@ -14,7 +14,7 @@
 * William Jonathan, 21 years
 * Full Stack Developer
 * Currently diving deeper into Next.js and TailwindCSS
-* 2 Years, 4 Months since I started programming
+* 2y+ since I started programming
 
 ## **My skills**
 <details>
