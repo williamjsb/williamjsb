@@ -11,7 +11,6 @@
 
 
 ## **About me**
-* William Jonathan
 * Software Developer
 * Currently diving deeper into GO
 * 3y+ since I started programming
