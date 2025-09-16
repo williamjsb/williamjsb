@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.williamjsb.com">Website</a> •
   <a href="https://linkedin.com/in/williamjsb">LinkedIn</a> •
-  <a href="https://twitter.com/williamjsb">X</a> 
+  <a href="https://twitter.com/williamjsb1">X</a> 
 </p>
 
 ---
