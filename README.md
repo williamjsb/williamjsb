@@ -1,15 +1,14 @@
-<p align="center">
-👋 Hii! I'm William Jonathan, a brazilian developer.
-</p>
-
+<h3 align="center">👋 Hi, I'm William Jonathan</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/williamjonathansb/">
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
+  <a href="https://www.williamjsb.com">Website</a> •
+  <a href="https://linkedin.com/in/williamjsb">LinkedIn</a> •
+  <a href="https://twitter.com/williamjsb">X</a> 
 </p>
 
+---
+I'm a software engineer with 4 years of experience in tech.
 
-## **About me**
-* Software Developer
-* 4y+ since I started programming
+Outside of work, I’m an enthusiastic gamer and also enjoy developing games.
+
+---
