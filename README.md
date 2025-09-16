@@ -12,5 +12,4 @@
 
 ## **About me**
 * Software Developer
-* Currently diving deeper into GO
-* 3y+ since I started programming
+* 4y+ since I started programming
